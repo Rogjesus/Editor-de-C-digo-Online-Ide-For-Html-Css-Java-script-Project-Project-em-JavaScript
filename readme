@@ -1,0 +1,29 @@
+Este projeto é um editor de código  construído usando HTML, CSS e JavaScript. O editor permite que os usuários escrevam e visualizem código HTML, CSS e JavaScript em tempo real, com uma área de visualização resultante em um iframe.
+
+Tecnologias Utilizadas
+HTML: A estrutura básica da página é definida em HTML, incluindo a criação de áreas para entrada de código e visualização de resultados.
+
+CSS: O estilo da página é estilizado usando CSS. O arquivo des.css é referenciado para fornecer a aparência visual ao editor.
+
+JavaScript: O comportamento interativo do editor é controlado pelo JavaScript. O arquivo simple.js contém lógica para atualizar a visualização em tempo real conforme o código é inserido ou modificado.
+
+Funcionalidades
+Editor de Código Tripartido:
+
+HTML Code Section: Uma área dedicada para escrever código HTML.
+CSS Code Section: Uma área dedicada para escrever código CSS.
+JavaScript Code Section: Uma área dedicada para escrever código JavaScript.
+Visualização em Tempo Real:
+
+Um iframe é utilizado para mostrar a visualização resultante do código HTML, CSS e JavaScript inserido pelos usuários. As alterações são refletidas instantaneamente conforme o código é modificado.
+Recursos de Imagens:
+
+Ícones representativos para HTML, CSS e JavaScript são exibidos junto com os respectivos cabeçalhos das áreas de código.
+Facilidade de Uso:
+
+Interface simples e intuitiva, facilitando a entrada e visualização do código.
+Como Usar
+Abra o arquivo index.html em um navegador da web.
+Insira ou modifique o código nas áreas HTML, CSS e JavaScript.
+Observe a visualização resultante na área do iframe.
+Este editor é adequado para pequenos projetos e experimentações rápidas. Sinta-se à vontade para explorar, personalizar ou integrar outras funcionalidades conforme necessário.
