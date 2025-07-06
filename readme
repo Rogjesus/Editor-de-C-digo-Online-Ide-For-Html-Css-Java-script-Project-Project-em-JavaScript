@@ -3,7 +3,8 @@ Este projeto é um editor de código  construído usando HTML, CSS e JavaScript.
 Tecnologias Utilizadas
 HTML: A estrutura básica da página é definida em HTML, incluindo a criação de áreas para entrada de código e visualização de resultados.
 
-CSS: O estilo da página é estilizado usando CSS. O arquivo des.css é referenciado para fornecer a aparência visual ao editor.
+CSS: 
+O estilo da página é estilizado usando CSS. O arquivo des.css é referenciado para fornecer a aparência visual ao editor.
 
 JavaScript: O comportamento interativo do editor é controlado pelo JavaScript. O arquivo simple.js contém lógica para atualizar a visualização em tempo real conforme o código é inserido ou modificado.
 
