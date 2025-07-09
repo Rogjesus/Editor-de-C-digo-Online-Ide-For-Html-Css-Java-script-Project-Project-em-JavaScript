@@ -1,7 +1,8 @@
 Este projeto é um editor de código  construído usando HTML, CSS e JavaScript. O editor permite que os usuários escrevam e visualizem código HTML, CSS e JavaScript em tempo real, com uma área de visualização resultante em um iframe.
 Tecnologias Utilizadas
 
-HTML: A estrutura básica da página é definida em HTML, incluindo a criação de áreas para entrada de código e visualização de resultados.
+HTML: 
+A estrutura básica da página é definida em HTML, incluindo a criação de áreas para entrada de código e visualização de resultados.
 
 CSS: 
 O estilo da página é estilizado usando CSS. O arquivo des.css é referenciado para fornecer a aparência visual ao editor.
